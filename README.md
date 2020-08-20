@@ -22,18 +22,18 @@ Hello.js.map.
 
 ## Installation
 
-Just add `karma-sourcemap-loader` as a devDependency in your `package.json`.
+Just add `@eventmobi/karma-sourcemap-loader` as a devDependency in your `package.json`.
 ```json
 {
   "devDependencies": {
-    "karma-sourcemap-loader": "~0.3"
+    "@eventmobi/karma-sourcemap-loader": "~0.3"
   }
 }
 ```
 
 Or issue the following command:
 ```bash
-npm install karma-sourcemap-loader --save-dev
+npm install @eventmobi/karma-sourcemap-loader --save-dev
 ```
 
 ## Configuration

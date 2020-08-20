@@ -1,11 +1,11 @@
 {
-  "name": "karma-sourcemap-loader",
+  "name": "@eventmobi/karma-sourcemap-loader",
   "version": "0.3.7",
   "description": "Karma plugin that locates and loads existing javascript source map files.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:demerzel3/karma-sourcemap-loader.git"
+    "url": "git@github.com:eventmobi/karma-sourcemap-loader.git"
   },
   "keywords": [
     "karma-plugin",
